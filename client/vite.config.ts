@@ -28,7 +28,7 @@ export default defineConfig({
     }
   },
   build: {
-    outDir: '../server/public'
+    //outDir: '../server/public'
   },
   optimizeDeps: {
     exclude: ['vuetify'],
